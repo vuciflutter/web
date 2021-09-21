@@ -45585,7 +45585,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 F.xl.prototype={
-L:function(a,b){return new S.pb(new F.po("Flutter Demo Home Page",null),"Flutter Demo",X.a32(null,C.hF),null)}}
+L:function(a,b){return new S.pb(new F.po("VUCI",null),"Vuci",X.a32(null,C.hF),null)}}
 F.po.prototype={
 aT:function(){return new F.t6(C.n)}}
 F.t6.prototype={
