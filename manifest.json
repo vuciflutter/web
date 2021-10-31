@@ -1,11 +1,11 @@
 {
-    "name": "vuci",
-    "short_name": "vuci",
+    "name": "cake",
+    "short_name": "cake",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Vucelja Saša",
+    "description": "Cake catalogue",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
