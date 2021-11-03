@@ -1,11 +1,11 @@
 {
-    "name": "web_demo",
-    "short_name": "web_demo",
+    "name": "cake",
+    "short_name": "cake",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Cake catalogue",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
